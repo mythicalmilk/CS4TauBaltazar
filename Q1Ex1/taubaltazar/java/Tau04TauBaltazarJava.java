@@ -34,17 +34,17 @@ public class Tau04TauBaltazarJava {
         System.out.println("Person 1:");
         System.out.println("Name:" + name1);
         System.out.println("Age:" + ageJohn);
-        System.out.println("Height:" + heightJohn);
+        System.out.println("Height:" + heightJohn + "\n");
         
         System.out.println("Person 2:");
         System.out.println("Name:" + name2);
         System.out.println("Age:" + ageJames);
-        System.out.println("Height:" + heightJames);
+        System.out.println("Height:" + heightJames + "\n");
         
         System.out.println("Person 3:");
         System.out.println("Name:" + name3);
         System.out.println("Age:" + ageJerry);
-        System.out.println("Height:" + heightJerry);
+        System.out.println("Height:" + heightJerry + "\n");
         
         System.out.println("Total age of the 3 people:" + totalAge);
         // (operation: sum)
